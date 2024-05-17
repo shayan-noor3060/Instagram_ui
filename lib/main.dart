@@ -41,6 +41,7 @@ class _MyAppState extends State<MyApp> {
             ],
           ),
           bottomNavigationBar: const BottomAppBar(
+            height: 40,
             child:  Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children:  [
